@@ -1,0 +1,12 @@
+<!-- sound/sound.qrc -->
+<RCC>
+    <qresource prefix="/sound">
+        <file>button.wav</file>
+        <file>coin.wav</file>
+        <file>collision.wav</file>
+	<file>fazahng.wav</file>
+        <file>jump.wav</file>
+        <file>over.wav</file>
+        <file>Theme.wav</file>
+    </qresource>
+</RCC>
